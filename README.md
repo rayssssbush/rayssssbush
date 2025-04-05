@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm web and mobile developer
 ----------------------------
 
-Sure! Here's the profile description in English with the skills you mentioned: --- Hi! My name is Polina, and I’m a web and mobile developer with a strong background in creating efficient and user-friendly applications. I have experience in Python and Django for backend development, as well as C++ for performance-critical tasks. On the mobile side, I work with Kotlin to build native Android apps. For web development, I specialize in HTML, CSS, and JavaScript, along with frameworks like React and Vue.js. My goal is to deliver high-quality, scalable solutions while continuously improving my skills and exploring new technologies. Always open to exciting projects and opportunities!
+ Hi! My name is Polina, and I’m a web and mobile developer with a strong background in creating efficient and user-friendly applications. I have experience in Python and Django for backend development, as well as C++ for performance-critical tasks. On the mobile side, I work with Kotlin to build native Android apps. For web development, I specialize in HTML, CSS, and JavaScript, along with frameworks like React and Vue.js. My goal is to deliver high-quality, scalable solutions while continuously improving my skills and exploring new technologies. Always open to exciting projects and opportunities!
 
 * 🧠  I'm learning operation systems, exploits and osint
 * ⚡  I'm Bathman
